@@ -4,6 +4,7 @@
 #### 0806022210012 Enrico Kevin Ariantho
 
 ## Architecture Diagram
+![image](https://github.com/user-attachments/assets/0a44d685-b05b-479b-87b7-23538064ff3b)
 
 
 ## AWS Setup Instructions
