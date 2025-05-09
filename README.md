@@ -231,6 +231,13 @@
 3. **Add the same security group as the EC2 Supabase in "existing VPC security group"**
 4. **Create the database**
 
+## 💻 Step 5: Make IAM Role & Policy
+1. **Open IAM in AWS and create role**
+2. **Choose trusted entity for EC2**
+3. **Search and checklist permission or policies for:** 
+     - AmazonRDSFullAccess 
+4. **Name the role and create it**
+
 
 ## Explanation of Choices
 We chose Supabase because supabase is an open source backend infrastructure. That means we could deploy it in our own server if we chose to and don't deal with the security aspect of the backend.
