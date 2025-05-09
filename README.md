@@ -58,7 +58,7 @@
    ```
    ansible all -m ping
    ```
-   //picture ansible green
+   ![image](https://github.com/user-attachments/assets/a0e82585-365d-4ca3-8a07-d2d776ef5376)
 
    
 ---
@@ -140,10 +140,7 @@
    and run:
    ```
    ansible-playbook install_dockerCompose.yml
-   ```
-
-   ![image](https://github.com/user-attachments/assets/a0e82585-365d-4ca3-8a07-d2d776ef5376)
-   
+   ```   
 
 3. **Make a playbook for clone backend supabase from github to managed node and execute it**
    ```
