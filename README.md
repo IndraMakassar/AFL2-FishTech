@@ -142,6 +142,9 @@
    ansible-playbook install_dockerCompose.yml
    ```
 
+   ![image](https://github.com/user-attachments/assets/a0e82585-365d-4ca3-8a07-d2d776ef5376)
+   
+
 3. **Make a playbook for clone backend supabase from github to managed node and execute it**
    ```
    sudo nano clone_supabase.yml
@@ -223,7 +226,6 @@
    ansible-playbook start_supabase.yml
    ```
    ![image](https://github.com/user-attachments/assets/3cc0282b-cfbb-47d8-965f-807834a64dfe)
-   ![image](https://github.com/user-attachments/assets/a0e82585-365d-4ca3-8a07-d2d776ef5376)
 ---
 
 ## 💻 Step 4: Make RDS in AWS
